@@ -1,5 +1,5 @@
----
-hostPort: localhost:5555
+consulHost: 127.0.0.1
+consulPort: 8500
 username: 
 password: 
 

@@ -1,2 +1,4 @@
 ---
 lowercaseOutputName: true
+consulHost: 39.107.159.174
+consulPort: 8500
